@@ -12,5 +12,5 @@
   "quality_scale": "silver",
   "requirements": ["pyhems @ git+https://github.com/ixsiid/pyhems.git@feature/Mitsubishi_AirResort"],
   "single_config_entry": true,
-  "version": "0.8.5"
+  "version": "0.8.6"
 }
