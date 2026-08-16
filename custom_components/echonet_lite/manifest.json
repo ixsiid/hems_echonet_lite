@@ -10,7 +10,7 @@
   "issue_tracker": "https://github.com/sayurin/hems_echonet_lite/issues",
   "loggers": ["pyhems"],
   "quality_scale": "silver",
-  "requirements": ["pyhems @ git+https://github.com/ixsiid/pyhems.git@master"],
+  "requirements": ["pyhems @ git+https://github.com/ixsiid/pyhems.git@feature/Mitsubishi_AirResort"],
   "single_config_entry": true,
   "version": "0.8.5"
 }
